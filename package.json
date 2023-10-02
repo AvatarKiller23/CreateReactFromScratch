@@ -1,0 +1,23 @@
+{
+  "name": "create-react-from-scratch",
+  "version": "0.0.1",
+  "description": "Learning how to create without CRA",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvatarKiller23/CreateReactFromScratch.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Sabik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvatarKiller23/CreateReactFromScratch/issues"
+  },
+  "homepage": "https://github.com/AvatarKiller23/CreateReactFromScratch#readme"
+}
